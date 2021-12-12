@@ -1,2 +1,4 @@
 # NonStat equation of thermal conductivity for NumericalMethods
-main is main.py
+use pybind11 to install nstetc.cpp extension for python
+
+## main is main.py
